@@ -25,7 +25,7 @@ With a responsive frontend and a robust backend, Talk-A-Tive offers an intuitive
 
 - 👤 **One-to-One Chat**
   - Personal messaging between users
-  
+  ![image](https://github.com/user-attachments/assets/a5b1d2df-8e0f-4d6a-88aa-b32bb572115a)
 
 - 👥 **Group Chats**
   - Create, rename, and manage group conversations
@@ -45,7 +45,7 @@ With a responsive frontend and a robust backend, Talk-A-Tive offers an intuitive
 
 - 👁️ **View Profiles**
   - View detailed profiles of other users
-  
+  ![image](https://github.com/user-attachments/assets/bbb00a4d-a2f7-4183-a16c-9e1d8cdaf648)
 
 ---
 
@@ -66,7 +66,7 @@ With a responsive frontend and a robust backend, Talk-A-Tive offers an intuitive
 Clone the project
 
 ```bash
-git clone https://github.com/piyush-eon/mern-chat-app
+git clone https://github.com/Manan-Joshi750/Talk-a-tive__A_Chatting_Application.git
 ```
 
 Go to the project directory
@@ -116,3 +116,12 @@ npm start
 ```
 
 ---
+
+## 📽️ Project Demonstration
+
+Here's a quick walkthrough of the Real-Time Chat Application in action! 🎬  
+The videos showcases core functionalities such as one to one chatting, group chatting, group creation, and more.
+
+📌 [Watch the Demo Video 1](https://go.screenpal.com/watch/cThDDvn6ewX)
+
+📌 [Watch the Demo Video 2](https://go.screenpal.com/watch/cThDDvn6ewD)
